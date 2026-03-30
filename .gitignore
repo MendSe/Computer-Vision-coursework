@@ -1,0 +1,23 @@
+# Ignore this folder
+Lessons/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / virtual envs
+.env
+.venv
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Optional: macOS / Windows junk
+.DS_Store
+Thumbs.db
