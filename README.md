@@ -1,6 +1,7 @@
 # Computer Vision Course Projects
 
-This repository contains my coursework and hands-on implementations for a university-level **Computer Vision** course (Spring 2026). The project documents my work across multiple assignments covering the core pipeline of classical computer vision: image filtering, feature detection, line detection, stereo matching, 3D reconstruction, camera geometry, epipolar geometry, and robust feature-based estimation.
+This repository contains my assignments and project work for the **Computer Vision** course (Spring 2026) taught by Prof. Ohad Fried at Reichman University.
+The project documents my work across multiple assignments covering the core pipeline of classical computer vision: image filtering, feature detection, line detection, stereo matching, 3D reconstruction, camera geometry, epipolar geometry, and robust feature-based estimation.
 
 The repository is organized as a sequence of Jupyter notebooks, with each homework building on the previous one. The work emphasizes implementing core algorithms from first principles, analyzing parameter sensitivity, and validating results on both synthetic data and real images.
 
